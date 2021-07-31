@@ -23,6 +23,13 @@ I am an entrepreneur, Full-stack Web developer, Graphic Designer and Marketing P
 
 ## Tools
  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+ 
+## Personal CMS Projects
+
+[EstaMuyCool!](https://estamuycool.com)
+[Swapcha](https://swapcha.com)
+
+## Contact
 
 Have a project you need to code? don’t hesitate to contact me.
 
