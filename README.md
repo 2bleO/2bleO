@@ -26,6 +26,10 @@ I am an entrepreneur, Full-stack Web developer, Graphic Designer and Marketing P
  
 ## Personal CMS Projects
 
+<img alt="estamuycool" src="https://estamuycool.com/wp-content/uploads/2020/08/logoredone2.png" width="200"/>
+
+<img alt="Swapcha" src="https://swapcha.com/wp-content/uploads/2021/05/swapchalogo.png" width="200" style="background:grey;"/>
+
 [EstaMuyCool!](https://estamuycool.com)
 
 [Swapcha](https://swapcha.com)
