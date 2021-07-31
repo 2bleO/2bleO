@@ -27,6 +27,7 @@ I am an entrepreneur, Full-stack Web developer, Graphic Designer and Marketing P
 ## Personal CMS Projects
 
 [EstaMuyCool!](https://estamuycool.com)
+
 [Swapcha](https://swapcha.com)
 
 ## Contact
